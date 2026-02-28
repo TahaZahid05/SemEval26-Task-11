@@ -1,0 +1,11 @@
+azureml-core
+deep-translator
+gibberish
+inflect
+nltk
+numpy
+pandas
+scikit-learn
+torch
+tqdm
+transformers
